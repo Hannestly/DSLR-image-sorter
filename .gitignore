@@ -4,3 +4,4 @@
 #except
 !.gitignore
 !sort.py
+!README.md
